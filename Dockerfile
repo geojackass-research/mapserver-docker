@@ -7,7 +7,7 @@
 
 FROM geodata/gdal:latest
 
-MAINTAINER Homme Zwaagstra <hrz@geodata.soton.ac.uk>
+LABEL MAINTAINER shoichi otomo <geojackass.shoichi0129@gmail.com>
 
 USER root
 

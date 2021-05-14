@@ -40,7 +40,7 @@ apt-get install -y \
 
 # Create the mapserver build environment.
 cd /tmp
-git clone https://github.com/mapserver/mapserver.git
+git clone https://github.com/geojackass-research/mapserver-docker
 cd mapserver
 git checkout "${git_tag}"
 mkdir build
